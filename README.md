@@ -23,13 +23,6 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - <b>Windows 10</b>
 - <b>Ubuntu 24.04</b>
 
-<h2>High-Level Steps</h2>
-
-- Step 1
-- Step 2
-- Step 3
-- Step 4
-
 
 <h2>Project Walk-through:</h2>
 

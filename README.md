@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/VvEfgCC.jpeg" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="https://i.imgur.com/VvEfgCC.jpeg"/>
 <br />
 
 <h1>Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines</h1>

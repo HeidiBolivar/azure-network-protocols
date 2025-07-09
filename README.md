@@ -28,7 +28,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <p align="center">
 Navigate to Microsoft Azure and create a resource group: <br/>
-<img src="https://i.imgur.com/Nq0B5A5.png" height="80%" alt="Setting Up in Azure"/>
+<img src="https://i.imgur.com/Nq0B5A5.png" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
 Once my resource group is created, next I'll create the first virtual machine:  <br/>

@@ -32,37 +32,37 @@ Navigate to Microsoft Azure and create a resource group: <br/>
 <br />
 <br />
 Once my resource group is created, next I'll create the first virtual machine:  <br/>
-<img src="https://i.imgur.com/aYzQfAh.png" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="https://i.imgur.com/aYzQfAh.png" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
 Setting up the first virtual machine:  <br/>
-<img src="https://i.imgur.com/i5ztDtu.png" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="https://i.imgur.com/i5ztDtu.png" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
-<img src="https://i.imgur.com/brgIyMT.png" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="https://i.imgur.com/brgIyMT.png" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
 I'll leave all other settings to default and create this VM:  <br/>
-<img src="https://i.imgur.com/OrrgUQv.png" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="https://i.imgur.com/OrrgUQv.png" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
 Now Azure has set up a VM, an IP for the VM, a network security group, a virtual network, a disk, and a NIC (Network Interface Card):  <br/>
-<img src="https://i.imgur.com/gIWv0pv.png" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="https://i.imgur.com/gIWv0pv.png" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
 Second VM setup:  <br/>
-<img src="https://i.imgur.com/vfUOJaG.png" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="https://i.imgur.com/vfUOJaG.png" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
-<img src="https://i.imgur.com/keOWo28.png" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="https://i.imgur.com/keOWo28.png" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
 In the "Networking" tab I want to ensure this VM will be on the same virtual network as the first one I made. So, I'll select the one already made for "VM1" instead of creating a new virtual network:  <br/>
-<img src="https://i.imgur.com/QXLXthz.png" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="https://i.imgur.com/QXLXthz.png" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
 Now if I go back to my resource group we can see that Azure created everything for VM2 as it did for VM1. Notice how there is only one network, however. This is because the two VMs are on the same network:  <br/>
-<img src="https://i.imgur.com/gIWv0pv.png" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="https://i.imgur.com/gIWv0pv.png" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
 I use VM1's public IP to connect to it using RDP:  <br/>
